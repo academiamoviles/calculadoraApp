@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">calculadoraApp</string>
+
+
+    <!-- MainActivity -->
+    <string name="main_activity_etiqueta_N1">Número 1</string>
+    <string name="main_activity_etiqueta_N2">Número 2</string>
+    <string name="main_activity_etiqueta_resultado">Resultado</string>
+
+    <string name="main_activity_operador_suma">+</string>
+    <string name="main_activity_operador_resta">-</string>
+    <string name="main_activity_operador_mutiplicacion">*</string>
+    <string name="main_activity_operador_division">/</string>
+
+</resources>
